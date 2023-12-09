@@ -13,6 +13,7 @@ takip etmeniz gerekiyor.
     private String surname;
     private String email;
 
+
     public Customer(String name, String surname, String email) {
         this.name = name;
         this.surname = surname;
