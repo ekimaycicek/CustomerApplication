@@ -15,6 +15,7 @@ takip etmeniz gerekiyor.
 
 
 
+
     public Customer(String name, String surname, String email) {
         this.name = name;
         this.surname = surname;
