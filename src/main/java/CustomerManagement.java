@@ -10,7 +10,6 @@ public class CustomerManagement {
         Customer customer3 = new Customer("Mehmet", "Kaya", "mehmet@gmail.com");
 
 
-
         customerList.add(customer1);
         customerList.add(customer2);
         customerList.add(customer3);
