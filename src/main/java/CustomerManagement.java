@@ -15,7 +15,6 @@ public class CustomerManagement {
 
 
 
-
         customerList.add(customer1);
         customerList.add(customer2);
         customerList.add(customer3);
